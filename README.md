@@ -1,9 +1,5 @@
 # Sesame
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-### Alice like ergo keyboard using only THT parts
-
 <img src="https://i.imgur.com/bQU1XQh.jpg" alt="drawing" width="800"/>
 
 ### Partslist
